@@ -7,5 +7,3 @@
 🌍 I aim to contribute to open-source projects, continuously expand my skills, and grow as a developer.
 
 🚀 Here, I'll be sharing my projects and progress. 🚀
-
-📩 How can you reach me emreakgun29@hotmail.com
